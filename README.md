@@ -7,8 +7,7 @@ If you love my projects don't forget star.
 
 # Languages and Tools
 
-![Css Logo](https://www.pngegg.com/tr/png-pdqgw)
-Format: ![Alt Text](https://www.pngegg.com/tr/png-pdqgw) <img src="https://www.pngegg.com/tr/png-hjxmr"> <img src="https://www.pngegg.com/tr/png-wgymv">
+ <img src="raw.githubusercontent.com/Images/main/pngegg_(2).png"> <img src="https://www.pngegg.com/tr/png-wgymv">
 
 <img src="https://www.pngegg.com/tr/png-hdnfq"> <img src="https://www.pngegg.com/tr/png-zadwo">
 
