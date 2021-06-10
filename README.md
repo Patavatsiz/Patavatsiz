@@ -1,9 +1,12 @@
 
 # About Me
 
-Hello, my name is Erce Can. I get learning some programing languages and Github is very helpful for this. I'm currently working and learning on JavaScript, HTML5, CSS3.
+Hello, my name is Erce Can. 
+
+I get learning some programing languages and Github is very helpful for this. I'm currently working and learning on JavaScript, HTML5, CSS3.
 If you love my projects don't forget star.
 
+<img src="https://komarev.com/ghpvc/?username=Patavatsiz">
 
 # Languages and Tools
 
