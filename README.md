@@ -7,7 +7,7 @@ If you love my projects don't forget star.
 
 # Languages and Tools
 
-<link href="https://www.pngegg.com/tr/png-pdqgw"> <img src="https://www.pngegg.com/tr/png-hjxmr"> <img src="https://www.pngegg.com/tr/png-wgymv">
+[CSS]("https://www.pngegg.com/tr/png-pdqgw") <img src="https://www.pngegg.com/tr/png-hjxmr"> <img src="https://www.pngegg.com/tr/png-wgymv">
 
 <img src="https://www.pngegg.com/tr/png-hdnfq"> <img src="https://www.pngegg.com/tr/png-zadwo">
 
