@@ -7,13 +7,10 @@ If you love my projects don't forget star.
 
 # Languages and Tools
 
- <img src="raw.githubusercontent.com/Images/main/pngegg_(2).png"> <img src="https://www.pngegg.com/tr/png-wgymv">
+<img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/javascript.svg" width="40px">ㅤ<img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/html5.svg" width="50px">
 
-<img src="https://www.pngegg.com/tr/png-hdnfq"> <img src="https://www.pngegg.com/tr/png-zadwo">
-
+<img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/visual-studio-code.svg" width="40px">ㅤ<img src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets/vs2019.svg" width="41px">
 
 # My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Patavatsiz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
