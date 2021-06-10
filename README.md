@@ -13,4 +13,4 @@ If you love my projects don't forget star.
 
 # My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Patavatsiz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Patavatsiz&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">ㅤ<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patavatsiz&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
