@@ -2,12 +2,14 @@
 # About Me
 
 Hello, my name is Erce Can. I get learning some programing languages and Github is very helpful for this. I'm currently working and learning on JavaScript, Html, Css.
+If you love my projects don't forget star.
+
 
 # Languages and Tools
 
-<img src="https://www.pngegg.com/tr/png-pdqgw"> <img src="https://www.pngegg.com/tr/png-hjxmr"> <img src="https://www.pngegg.com/tr/png-wgymv">
+<link src="https://www.pngegg.com/tr/png-pdqgw"> <link src="https://www.pngegg.com/tr/png-hjxmr"> <link src="https://www.pngegg.com/tr/png-wgymv">
 
-<img src="https://www.pngegg.com/tr/png-hdnfq"> <img src="https://www.pngegg.com/tr/png-zadwo">
+<link src="https://www.pngegg.com/tr/png-hdnfq"> <link src="https://www.pngegg.com/tr/png-zadwo">
 
 
 # My Github Stats
