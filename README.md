@@ -7,9 +7,9 @@ If you love my projects don't forget star.
 
 # Languages and Tools
 
-<link src="https://www.pngegg.com/tr/png-pdqgw"> <link src="https://www.pngegg.com/tr/png-hjxmr"> <link src="https://www.pngegg.com/tr/png-wgymv">
+<link href="https://www.pngegg.com/tr/png-pdqgw"> <img src="https://www.pngegg.com/tr/png-hjxmr"> <img src="https://www.pngegg.com/tr/png-wgymv">
 
-<link src="https://www.pngegg.com/tr/png-hdnfq"> <link src="https://www.pngegg.com/tr/png-zadwo">
+<img src="https://www.pngegg.com/tr/png-hdnfq"> <img src="https://www.pngegg.com/tr/png-zadwo">
 
 
 # My Github Stats
