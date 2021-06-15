@@ -8,5 +8,5 @@ I get learning some web programing languages and Github is very helpful for this
 </p>
 <h1 align="center">GITHUB STATS</h1>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Patavatsiz&show_icons=true&hide_title=true&theme=vue-dark&text_color=9C9C9C">
-<img src="https://github-readme-stats.vercel.app/api?username=Patavatsiz&show_icons=true&hide_title=true&theme=vue-dark&text_color=9C9C9C" style="max-width:100%;"></a><a href="https://github.com/Patavatsizb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patavatsiz&layout=compact&text_color=41b883&title_color=41b883&bg_color=273849" style="max-width:100%;"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Patavatsiz&show_icons=true&hide_title=true&theme=vue-dark&text_color=9C9C9C" style="max-width:100%;"></a> <a href="https://github.com/Patavatsizb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patavatsiz&layout=compact&text_color=41b883&title_color=41b883&bg_color=273849" style="max-width:100%;"></a>
 </p>
