@@ -10,12 +10,6 @@ I get learning some web programing languages and Github is very helpful for this
   <img src="https://komarev.com/ghpvc/?username=Patavatsiz&color=blueviolet&style=flat-square&label=Goruntulenme+Sayisi" style="max-width:100%;">
 </p>
 <h1 align="center">GITHUB STATS</h1>
-<p><a href="https://github.com/Patavatsiz" target="_blank" rel="noopener noreferrer" >
-<img src="https://github-readme-stats.vercel.app/api?username=Patavatsiz&show_icons=true&hide_title=true&theme=midnight-purple&text_color=ffffff" style="max-width:100%;"></a> <a href="https://github.com/Patavatsiz" target="_blank" rel="noopener noreferrer" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patavatsiz&layout=compact&text_color=ffffff&title_color=9745f5&bg_color=000000" style="max-width:100%;"></a>
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/Patavatsiz" target="_blank" rel="noopener noreferrer" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patavatsiz&theme=midnight-purple">
-  </a> 
+<p align="center"><a href="https://github.com/Patavatsiz" target="_blank" rel="noopener noreferrer" >
+<img src="https://github-readme-stats.vercel.app/api?username=Patavatsiz&show_icons=true&hide_title=true&theme=midnight-purple&text_color=ffffff" width="420px"></a> <a href="https://github.com/Patavatsiz" target="_blank" rel="noopener noreferrer" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patavatsiz&layout=compact&text_color=ffffff&title_color=9745f5&bg_color=000000" style="max-width:100%;"></a>
 </p>
