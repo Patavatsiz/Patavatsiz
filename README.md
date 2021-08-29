@@ -1,6 +1,6 @@
 <h1 align="center">ABOUT ME</h1>
 
-<p><b>Hello, my name is Erce (Lucy) Can. 
+<p><b>Hello, my name is Erce (Laplace) Can. 
 
 I get learning some web programing languages and Github is very helpful for this. I also code bots for public servers in the discord app and share them on Github. I'm currently working and learning on JavaScript, TypeScript, HTML, Css, Bootstrap, Scss, Sass, Angular, C#. If you love my projects don't forget star.</b></p> 
 <p align="center">
